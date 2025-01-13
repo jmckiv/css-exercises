@@ -1,15 +1,20 @@
-.class1 {
+.odd {
     color: rgb(0, 0, 0);
-    background-color: rgb(200, 50, 150);
-    font-weight: bold;
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: rgb(220, 136, 192);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-#id-1 {
+.adjust-font-size{
+    font-size: 24px;
+}
+
+#two {
     color: rgb(0, 0, 255); 
     font-size: 36px;
 }
 
-/* .class2 {
-    font-size: 24px;
+#four {
+    color:  rgb(0, 0, 0);
+    background-color: hsla(136, 63%, 61%, 0.561);
+    font-weight: bold;
 }
